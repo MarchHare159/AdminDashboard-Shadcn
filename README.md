@@ -34,13 +34,13 @@ I've been creating dashboard UIs at work and for my personal projects. I always 
 Clone the project
 
 ```bash
-  git clone https://github.com/satnaing/shadcn-admin.git
+  git clone https://github.com/loonglim/AdminDashboard-Shadcn.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd shadcn-admin
+  cd AdminDashboard-Shadcn
 ```
 
 Install dependencies
@@ -57,7 +57,7 @@ Start the server
 
 ## Author
 
-Crafted with 🤍 by [@satnaing](https://github.com/satnaing)
+Crafted with 🤍 by [@loonglim](https://github.com/loonglim)
 
 ## License
 
